@@ -1,0 +1,17 @@
+********* My Game ***********
+
+1- New 3D Project 
+2- Add Cube "GROUND" with Scale (15-1-100)
+3- Fix the Camera with the Ground ! 
+4- Add another Cube "PLAYER" 
+5- Fix Position and Scale of the PLayer with the Ground 
+6- Add Material to the Player (add the color 'Red'.....)
+7- Add Physics to the Player (Rigidbody)
+8- Fix the position of the Camera (0-1.77--6.87)
+9- Modify the color flag (Skybox ---> Solid color'Gris')
+10- Add another Cube "OBSTACLE" 
+11- Add Material to the Obstacle (add the color'Gris foncé'.....)
+12- Add Physics to the Obstacle (Rigidbody)
+13- Add a tag to the Obstacle "Obstacle"
+14- Edit the Lighting ---> Check the Fogs ! 
+15- Modify Player / Obstacle (collision detection ---> continuous)
